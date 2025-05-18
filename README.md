@@ -72,7 +72,7 @@ npm run build
 
 ## Contact
 
-For any inquiries, please reach out to [your@email.com](mailto:your@email.com)
+For any inquiries, please reach out to (pratyushk537@gmail.com)
 
 ## License
 
