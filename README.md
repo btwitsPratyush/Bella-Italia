@@ -76,4 +76,4 @@ For any inquiries, please reach out to (pratyushk537@gmail.com)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
