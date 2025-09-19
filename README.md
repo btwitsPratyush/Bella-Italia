@@ -2,7 +2,7 @@
 
 A modern, responsive restaurant website built with React, TypeScript, and Tailwind CSS.
 
-## Features
+## Features:-
 
 - Responsive design that works on all devices
 - Interactive menu with categories
