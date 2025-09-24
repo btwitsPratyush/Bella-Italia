@@ -12,7 +12,7 @@ A modern, responsive restaurant website built with React, TypeScript, and Tailwi
 - Contact information
 - WhatsApp integration
 
-## Technologies Used
+## Technologies Used:-
 
 - React 18
 - TypeScript
