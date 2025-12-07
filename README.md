@@ -59,7 +59,7 @@ src/
 └── main.tsx       # Application entry point
 ```
 
-## Deployment
+## Deployment:-
 
 This project can be deployed to any static hosting service:
 
